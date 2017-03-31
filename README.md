@@ -1,2 +1,2 @@
 # HDInsightClusterResizeWithDotNet-
-Sample C# console app to resize your cluster grammatically. 
+Sample C# console app to resize your cluster Programmatically. 
